@@ -1,5 +1,20 @@
 # Logger Class Documentation
 
+## Project Highlights
+
+-   `Singleton Pattern Implementation`: Ensures a single instance of the Logger class for consistent and efficient logging.
+-   `Logging Levels`: Supports VERBOSE, INFO, WARNING, and ERROR levels.
+
+## Project Files
+
+The following files are included in the project:
+
+-   `LogLevel.ts`: Defines the different logging levels.
+-   `ILogger.ts`: Interface for the Logger.
+-   `LoggerConfig.ts`: Configuration interface for the Logger.
+-   `Logger.ts`: Implementation of the Logger class.
+-   `index.ts`: Entry point demonstrating the usage of the Logger.
+
 ## Prerequisites
 
 -   Node.js and npm must be installed on your machine.
