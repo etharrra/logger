@@ -1,3 +1,36 @@
+# Logger Class Documentation
+
+## Prerequisites
+
+-   Node.js and npm must be installed on your machine.
+
+## SettingUp
+
+1.  Clone the repository:
+
+```sh
+git clone https://github.com/etharrra/logger.git
+cd logger
+```
+
+2. Install dependencies:
+
+```sh
+npm install
+```
+
+3. Building
+
+```sh
+npm run build
+```
+
+4. Running the Application
+
+```sh
+npm run start
+```
+
 ## Logger Class Details
 
 ### Constructor
