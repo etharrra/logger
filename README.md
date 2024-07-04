@@ -35,7 +35,7 @@ npm run start
 
 ### Constructor
 
-The constructor is private to enforce the Singleton pattern. It initializes the logger with a specified log level.
+The constructor is private to enforce the <b>Singleton pattern</b> ensuring a single instance of the Logger class for consistent and efficient logging. It initializes the logger with a specified log level.
 
 ### Methods
 
